@@ -1,0 +1,129 @@
+############################ banner ##########################
+banner:
+  enable: true
+  title: "Karibu Southside"
+  content: "This is home to our PlugIn Ministry"
+  image: "images/intro1.png"
+
+########################## About ##############################
+about:
+  enable: true
+  title: "How do I find My Purpose?"
+  content:
+    "We desire that you will get an opportunity to rest at Christ's feet by experienceing a whole new life transformation
+    as Luke puts it in his second gospel of Acts 2:42-47.
+    You will reflect and rediscover God's unending Grace over your life as you become an agent of change, and impact others around you. 
+    As Nairobi Chapel South, we are desirous to walk with you in this journey by taking you through our discipleship program, PlugIn."
+  image: "images/intro2.png"
+
+########################### Advantage #########################
+advantage:
+  enable: true
+  title: "What is PlugIn?"
+  subtitle: "PlugIn is an exciting ten week practical discipleship experience designed to help you connect to God, 
+  connect with your purpose, and connect with like-minded people on a journey of discovering and living out their purpose."
+  image: "images/intro3.jpg"
+  advantageList:
+    # advantage list loop
+    - listItem: "Connect you to God:"
+    - listItem: "Connect you to Community"
+    - listItem: "Connect you to Church"
+    - listItem: "Connect you to Destiny"
+
+######################## raw material #######################
+material:
+  enable : true
+  title : "The PlugIn Experience"
+  subtitle : ""
+  materialItem:
+    # material item loop
+    - title : "Connects you to God"
+      image : "images/material/material-1.png"
+      content : "Through daily devotions you will be able to know and understand God better; you will grow a deeper 
+      and more intimate relationship with Him in times of prayer and fasting; and your Will and desires will
+      be better aligned to His as you learn to lead a life of obedience, surrender and submission."
+      
+    # material item loop
+    - title : "Connects you to Community"
+      image : "images/material/material-2.png"
+      content : "God created us for relationships and as you go through the experience with others, 
+      you will develop lifelong friendships with like-minded people, be able to share your faith or salvation story with 
+      those outside the church as well as reach out to the marginalized and vulnerable members of society."
+      
+    # material item loop
+    - title : "Connect you to Church"
+      image : "images/material/material-3.png"
+      content : "Discover your spiritual gifts and abilities and get to use them through a 6 month internship after graduation. 
+      This internship will be in line with your gifts and skills – if you are hospitable, 
+      you are invited to serve as a greeter or usher; if you are passionate about justice then you can serve the marginalized 
+      and less fortunate in our Frontline Ministries. 
+      You also get to engage in our adult, youth and children’s ministries if this is in line with your gifts."
+      
+    # material item loop
+    - title : "Connect you to Destiny"
+      image : "images/material/material-4.png"
+      content : "Through PlugIn, you will discover how to effectively use your time, talents and finances
+       to lead a meaningful and purposeful life; impact the societal sector you are positioned in and possibly 
+       leave a legacy for generations to come."
+
+
+
+
+######################## Promo Video ##########################
+video:
+  enable: true
+  title: "How does Plug-In work?"
+  content: "
+  The PlugIn experience is made up of a big group of congregants, broken down into smaller groups of 6 to 15 people.
+
+  Each of these small groups is led by a team of facilitators who have volunteered towards this cause to guide and engage participants
+  in the course of their 10-week journey.
+  
+  The small groups meet once a week in Church, for two hours (between 9am-11am) to share and explore what they have studied 
+  over a cup of tea and other refreshments. 
+
+  There are 3 weekend activities that entail half day of prayer and fasting, sharing the gospel and serving the vulnerable and disadvantaged members of society.
+  
+  The experience culminates in a retreat at the tail end. 80% attendance is required for one to successfully complete the Plug-In experience."
+
+  videoThumb: "images/video-thumb-1.png"
+  videoURL: "https://www.youtube.com/embed/EWW7qbgM3BU?list=PL_gjgHrj5fGoSjJm2eti3v6PGLiXYtaOi"
+
+######################## Our Facilitators #############################
+facilitators:
+  enable: true
+  title: "Our Facilitators"
+  # product item comes from "content/facilitators"
+
+########################## Testimonial ########################
+testimonial:
+  enable: true
+  title: "What People Are Saying <br> about Plug-In"
+  testimonialItem:
+    # testimonial item loop
+    - name: "Angelo Perara"
+      image: "images/clients/client-1.jpg" # size 100px*100px
+      designation: "CEO, Dialogue Broad Band"
+      content: "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+      rating: "five" # rating star, one to five
+
+    # testimonial item loop
+    - name: "Riya Ventila"
+      image: "images/clients/client-2.jpg" # size 100px*100px
+      designation: "CEO, Dialogue Broad Band"
+      content: "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+      rating: "three" # rating star, one to five
+
+    # testimonial item loop
+    - name: "john Doe"
+      image: "images/clients/client-3.jpg" # size 100px*100px
+      designation: "CEO, Dialogue Broad Band"
+      content: "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+      rating: "five" # rating star, one to five
+
+    # testimonial item loop
+    - name: "Riya Ventila"
+      image: "images/clients/client-2.jpg" # size 100px*100px
+      designation: "CEO, Dialogue Broad Band"
+      content: "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+      rating: "four" # rating star, one to five

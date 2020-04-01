@@ -1,0 +1,99 @@
+######################## default configuration ####################
+baseURL = ""
+languageCode = "en-us"
+title = "Southsiders"
+theme = "hargo"
+summaryLength = "20"
+paginate = 10
+disqusShortname = ""
+
+############################# Plugins ##############################
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  link = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  link = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  link = "plugins/themify-icons/themify-icons.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  link = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  link = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  link = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  link = "plugins/google-map/gmap.js"
+
+  
+############################## navigation ###############################
+[menu]
+  
+  [[menu.main]]
+  name = "Our Stories"
+  URL = "our-stories"
+  weight = 2
+
+  [[menu.main]]
+  name = "e-Groups"
+  URL = "e-groups"
+  weight = 3
+
+  [[menu.main]]
+  name = "Give"
+  URL = "give"
+  weight = 4
+
+  
+
+  
+  
+
+
+
+  
+
+  
+
+
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.png"
+home = "Home"
+# Meta data
+description = "This is meta description"
+author = "Themefisher"
+
+# Contact Information
+mobile = "+254 746 749 722"
+location = "South C, along Five Star Road, No. 55"
+# copyright
+copyright = "| Copyright &copy; 2019 [William Ondenge](https://ondenge.me) All Rights Reserved |"
+
+  # Preloader
+  [params.preloader]
+  enable = true
+  preloader = "" # use .png , .svg or .gif format
+
+  # Social Site
+  [[params.social]]
+  icon = "ti-facebook"
+  link = "https://www.facebook.com/nairobichapelsouth"
+  
+  [[params.social]]
+  icon = "ti-twitter-alt"
+  link = "https://twitter.com/nc_south"
+  
+  [[params.social]]
+  icon = "ti-youtube"
+  link = "http://www.youtube.com/c/NairobiChapelSouth"
+  
+  [[params.social]]
+  icon = "ti-instagram"
+  link = "https://www.instagram.com/nc_south"
+  
+
