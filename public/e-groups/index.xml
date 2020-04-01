@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>e-Groups on Southsiders</title>
+    <link>/e-groups/</link>
+    <description>Recent content in e-Groups on Southsiders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
+    
+	<atom:link href="/e-groups/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Join our Small Groups.</title>
+      <link>/e-groups/join/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>/e-groups/join/</guid>
+      <description>The body of Christ at Nairobi Chapel is discipled through Small Groups – eGroups, for members to become Faithful Followers of Christ and in turn, through active engagement of their gifts to become effective Fishers of men.</description>
+    </item>
+    
+  </channel>
+</rss>
