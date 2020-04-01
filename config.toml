@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://www.ncsouthplugin.team"
 languageCode = "en-us"
 title = "Southsiders"
 theme = "hargo"
